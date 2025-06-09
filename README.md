@@ -84,7 +84,27 @@ const Trung = {
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
   
- <a href="https://github.com/Trunghere"><img alt="Trunghere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trunghere&custom_title=trunghere's%20Contribution%20Graph&theme=react-dark" /></a>
+## GitHub Streak 🔥
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Trung-HUST&theme=chartreuse-dark)](https://github.com/hth125192?tab=repositories)
+
+## Top Repositories 🌟
+
+<a href="https://github.com/hth125192/DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=DSA&show_owner=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/Trung-HUST/OOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=OOP&show_owner=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/hth125192/Project1OOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Project1OOP&show_owner=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/hth125192/Project2OOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Project2OOP&show_owner=true&theme=chartreuse-dark" />
+</a>
+
+<br />
+<br />
 
 ```Javascript 
 Developer dev = new Developer("Trung");
