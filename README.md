@@ -49,7 +49,7 @@ const Trung = {
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-css-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-computer-programming-flaticons-lineal-color-flat-icons.png"/>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mo bile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
   <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
 </p>
 
@@ -88,7 +88,7 @@ const Trung = {
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Trung-HUST&theme=chartreuse-dark)](https://github.com/hth125192?tab=repositories)
 
-## Top Repositories 🌟
+// ## Top Repositories 🌟
 
 <a href="https://github.com/hth125192/DSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Trung-HUST&show_owner=true&theme=chartreuse-dark" />
