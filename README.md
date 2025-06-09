@@ -91,7 +91,7 @@ const Trung = {
 ## Top Repositories 🌟
 
 <a href="https://github.com/hth125192/DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=DSA&show_owner=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Trung-HUST&show_owner=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Trung-HUST/OOP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=OOP&show_owner=true&theme=chartreuse-dark" />
