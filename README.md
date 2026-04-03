@@ -69,11 +69,11 @@ const Trung = {
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trung-hust&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Trung-HUST&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 	<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Trung-HUST&show_icons=true&theme=transparent" height="192px"/></a> -->
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trung-hust&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trung-HUST&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -100,16 +100,16 @@ const Trung = {
 
 // ## Top Repositories 🌟
 
-<a href="https://github.com/hth125192/DSA">
+<a href="https://github.com/Trung-HUST/DSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Trung-HUST&show_owner=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Trung-HUST/OOP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=OOP&show_owner=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/hth125192/Project1OOP">
+<a href="https://github.com/Trung-HUST/Project1OOP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Project1OOP&show_owner=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/hth125192/Project2OOP">
+<a href="https://github.com/Trung-HUST/Project2OOP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Project2OOP&show_owner=true&theme=chartreuse-dark" />
 </a>
 
