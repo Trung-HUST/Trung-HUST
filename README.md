@@ -8,7 +8,7 @@ class TrungHere():
     
   def __init__(self):
     self.Name = "Nguyen Thanh Trung";
-    self.username = "TrungHere";
+    self.username = "Trung-HUST";
     self.University = "Hanoi University of Science and Technology";
     self.location = "Hanoi, Viet Nam";
     self.Gmail = "TrungHere@gmail.com";
@@ -70,6 +70,7 @@ const Trung = {
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trung-hust&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+	      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Trung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trung-hust&show_icons=true&theme=transparent" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trung-hust&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="7oSkaaa" height="192px"/>
