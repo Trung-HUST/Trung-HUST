@@ -96,7 +96,7 @@ const Trung = {
   
 ## GitHub Streak 🔥
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Trung-HUST&theme=chartreuse-dark)](https://github.com/hth125192?tab=repositories)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Trung-HUST&theme=chartreuse-dark)](https://github.com/Trung-HUST?tab=repositories)
 
 // ## Top Repositories 🌟
 
