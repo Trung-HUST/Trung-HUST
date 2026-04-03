@@ -101,16 +101,16 @@ const Trung = {
 // ## Top Repositories 🌟
 
 <a href="https://github.com/Trung-HUST/trung-hust.kkv.site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Trung-HUST&show_owner=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=trung-hust.kkv.site&show_owner=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Trung-HUST/Trung-HUST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=OOP&show_owner=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Trung-HUST&show_owner=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Trung-HUST/robot-dektop-with-Esp32">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Project1OOP&show_owner=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=robot-dektop-with-Esp32&show_owner=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Trung-HUST/control-center-kuroda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=Project2OOP&show_owner=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trung-HUST&repo=control-center-kuroda&show_owner=true&theme=chartreuse-dark" />
 </a>
 
 <br />
