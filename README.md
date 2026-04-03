@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFBCA6&size=30&lines=Hi+there,+I'm+Trung;I'm+Back-end+Developer...;I+always+learning+new+things;And+nice+to+meet+you+..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFBCA6&size=30&lines=Hi+there,+I'm+Trung;I'm+a+Solution+Architect...;I+always+learning+new+things;And+nice+to+meet+you+..)](https://git.io/typing-svg)
 
 ```python
 class TrungHere():
@@ -12,7 +12,7 @@ class TrungHere():
     self.University = "Hanoi University of Science and Technology";
     self.location = "Hanoi, Viet Nam";
     self.Gmail = "TrungHere@gmail.com";
-    self.fb = "https://www.facebook.com/Hellotrungio/";
+    self.fb = "https://www.facebook.com/nhatusan/";
     
   
   def __str__(self):
@@ -33,11 +33,20 @@ if __name__ == '__main__':
 ```Javascript 
 const Trung = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS"],
-  askMeAbout: ["backend web dev", " nodejs", "python", ],
+  code: ["JavaScript", "Python", "PHP", "C#", "C++"],
   technologies: {
-      backend: ["nodejs", mongodb ,"JS"],
-  }
+    backend: ["Node.js", "Express", "MongoDB", "PHP/Laravel", ".NET Core"],
+    iot_hardware: ["MQTT", "Microcontrollers", "Raspberry Pi", "Arduino"],
+    tools_and_os: ["Git", "Docker", "Linux", "Postman"]
+  },
+  askMeAbout: [
+    "Why I chose IT and Hardware?", 
+    "How to balance coding with being a new dad?", 
+    "Composing violin music & oil painting",
+    "Photography and camera gear"
+  ],
+  hobbies: ["Music Production", "Art", "Cooking", "EDC Flashlights"],
+  currentFocus: "Building IoT and automation solutions"
 }
 ```
 
